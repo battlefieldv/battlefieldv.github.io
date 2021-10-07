@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: battlefieldv.github.io
+Token: cac288344213f196b04b128eb4f87a0315ffb8fee4ea7059fba7d7977c5a8d18
