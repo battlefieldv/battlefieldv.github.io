@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>mediumscott &#8211; Battlefield V</title>
+	<atom:link href="https://battlefieldv.github.io/author/fae69febbc4e9f5c00adbc3eb9722188/feed/" rel="self" type="application/rss+xml" />
+	<link>https://battlefieldv.github.io/</link>
+	<description>Welcome to the home of Battlefield V! Your place for discussion, help, news, reviews, questions, screenshots, videos, gifs, and anything else BFV related! Battlefield V is developed by DICE and produced by EA. This subreddit is ran by dedicated fans of the series and has no affiliation with EA or DICE.</description>
+	<lastBuildDate>Fri, 20 Aug 2021 19:46:15 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>The video I didn&#8217;t ruin by yelling &#8220;OMG&#8221;</title>
+		<link>https://battlefieldv.github.io/3174/</link>
+					<comments>https://battlefieldv.github.io/3174/#comments</comments>
+		
+		<dc:creator><![CDATA[mediumscott]]></dc:creator>
+		<pubDate>Fri, 20 Aug 2021 19:46:15 +0000</pubDate>
+				<category><![CDATA[blog]]></category>
+		<guid isPermaLink="false">https://battlefieldv.github.io/3174/</guid>
+
+					<description><![CDATA[The video I didn&#8217;t ruin by yelling &#8220;OMG&#8221;]]></description>
+										<content:encoded><![CDATA[<p>The video I didn&#8217;t ruin by yelling &#8220;OMG&#8221;</p>
+<p><iframe loading="lazy" title="The video I didn&#039;t ruin by yelling &quot;OMG&quot;" width="640" height="360" src="https://www.youtube.com/embed/sto6DQmChnE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://battlefieldv.github.io/3174/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

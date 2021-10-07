@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>LazTheRabbit &#8211; Battlefield V</title>
+	<atom:link href="https://battlefieldv.github.io/author/b0cde442cbc947494637518635cba702/feed/" rel="self" type="application/rss+xml" />
+	<link>https://battlefieldv.github.io/</link>
+	<description>Welcome to the home of Battlefield V! Your place for discussion, help, news, reviews, questions, screenshots, videos, gifs, and anything else BFV related! Battlefield V is developed by DICE and produced by EA. This subreddit is ran by dedicated fans of the series and has no affiliation with EA or DICE.</description>
+	<lastBuildDate>Fri, 01 Oct 2021 01:53:56 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>&#8220;Sniping isn&#8217;t playing the objective&#8221;</title>
+		<link>https://battlefieldv.github.io/3167/</link>
+					<comments>https://battlefieldv.github.io/3167/#comments</comments>
+		
+		<dc:creator><![CDATA[LazTheRabbit]]></dc:creator>
+		<pubDate>Fri, 01 Oct 2021 01:53:56 +0000</pubDate>
+				<category><![CDATA[blog]]></category>
+		<guid isPermaLink="false">https://battlefieldv.github.io/3167/</guid>
+
+					<description><![CDATA[&#8220;Sniping isn&#8217;t playing the objective&#8221;]]></description>
+										<content:encoded><![CDATA[<p>&#8220;Sniping isn&#8217;t playing the objective&#8221;</p>
+<p><video      controls="controls"><source src="https://v.redd.it/myubr1ntqbr71/DASH_360.mp4" type="video/mp4"></video></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://battlefieldv.github.io/3167/feed/</wfw:commentRss>
+			<slash:comments>8</slash:comments>
+		
+		<enclosure url="https://v.redd.it/myubr1ntqbr71/DASH_360.mp4" length="2530425" type="video/mp4" />
+
+			</item>
+		<item>
+		<title>I&#8217;m trying to play smart but what even is this ?</title>
+		<link>https://battlefieldv.github.io/3164/</link>
+					<comments>https://battlefieldv.github.io/3164/#respond</comments>
+		
+		<dc:creator><![CDATA[LazTheRabbit]]></dc:creator>
+		<pubDate>Fri, 17 Sep 2021 11:58:14 +0000</pubDate>
+				<category><![CDATA[blog]]></category>
+		<guid isPermaLink="false">https://battlefieldv.github.io/3164/</guid>
+
+					<description><![CDATA[I&#8217;m trying to play smart but what even is this ?]]></description>
+										<content:encoded><![CDATA[<p>I&#8217;m trying to play smart but what even is this ?</p>
+<p><video      controls="controls"><source src="https://thumbs.gfycat.com/PastelDampHawk-mobile.mp4" type="video/mp4"></video></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://battlefieldv.github.io/3164/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://thumbs.gfycat.com/PastelDampHawk-mobile.mp4" length="15732058" type="video/mp4" />
+
+			</item>
+		<item>
+		<title>Surprise sniping</title>
+		<link>https://battlefieldv.github.io/3248/</link>
+					<comments>https://battlefieldv.github.io/3248/#comments</comments>
+		
+		<dc:creator><![CDATA[LazTheRabbit]]></dc:creator>
+		<pubDate>Tue, 17 Aug 2021 02:36:15 +0000</pubDate>
+				<category><![CDATA[blog]]></category>
+		<guid isPermaLink="false">https://battlefieldv.github.io/3248/</guid>
+
+					<description><![CDATA[Surprise sniping]]></description>
+										<content:encoded><![CDATA[<p>Surprise sniping</p>
+<p><video      controls="controls"><source src="https://thumbs.gfycat.com/FearlessNearAmericanrobin-mobile.mp4" type="video/mp4"></video></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://battlefieldv.github.io/3248/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		<enclosure url="https://thumbs.gfycat.com/FearlessNearAmericanrobin-mobile.mp4" length="7025741" type="video/mp4" />
+
+			</item>
+	</channel>
+</rss>
